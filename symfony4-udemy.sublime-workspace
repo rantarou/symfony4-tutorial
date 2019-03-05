@@ -1,0 +1,890 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"confirmationToken"
+			],
+			[
+				"mail",
+				"mailer"
+			],
+			[
+				"Swi",
+				"Swift_Message〔class〕"
+			],
+			[
+				"USe",
+				"UserRegisterEvent"
+			],
+			[
+				"Eve",
+				"EventSubscriberInterface"
+			],
+			[
+				"E",
+				"EventDispatcherInterface"
+			],
+			[
+				"list-",
+				"list-group-item"
+			],
+			[
+				"nio",
+				"notificationRepository〔variable〕"
+			],
+			[
+				"inse",
+				"$insertDiff〔variable〕"
+			],
+			[
+				"P",
+				"PersistentCollection〔class〕"
+			],
+			[
+				"fet",
+				"fetchNotificationCount〔function〕"
+			],
+			[
+				"Co",
+				"Controller"
+			],
+			[
+				"Http",
+				"HttpFoundation〔namespace〕"
+			],
+			[
+				"getF",
+				"getFollowing"
+			],
+			[
+				"cu",
+				"$currentUser〔variable〕"
+			],
+			[
+				"and",
+				"andHaving〔function〕"
+			],
+			[
+				"get",
+				"getFindAllWithMoreThan5PostsQuery〔function〕"
+			],
+			[
+				"user",
+				"usersToFollow"
+			],
+			[
+				"o",
+				"orderBy〔function〕"
+			],
+			[
+				"create",
+				"createQueryBuilder〔function〕"
+			],
+			[
+				"mic",
+				"microPostRepository"
+			],
+			[
+				"Toke",
+				"TokenStorageInterface"
+			],
+			[
+				"C",
+				"Controller"
+			],
+			[
+				"Con",
+				"Controller〔namespace〕"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"use",
+				"$userWithPosts〔variable〕"
+			],
+			[
+				"A",
+				"Authentication〔namespace〕"
+			],
+			[
+				"T",
+				"TokenStorageInterface"
+			],
+			[
+				"Aut",
+				"Authorization〔namespace〕"
+			],
+			[
+				"En",
+				"EntityManager〔class〕"
+			],
+			[
+				"pass",
+				"$password〔variable〕"
+			],
+			[
+				"User",
+				"UserPasswordEncoderInterface〔interface〕"
+			],
+			[
+				"Auth",
+				"AuthenticationUtils〔namespace〕"
+			],
+			[
+				"micro",
+				"micro-post_index"
+			],
+			[
+				"pas",
+				"passwordEncoder"
+			],
+			[
+				"load",
+				"loadMicroPost〔function〕"
+			],
+			[
+				"un",
+				"unserialize"
+			],
+			[
+				"form",
+				"$formFactory〔variable〕"
+			],
+			[
+				"S",
+				"SessionInterface〔interface〕"
+			],
+			[
+				"Fla",
+				"FlashBagInterface"
+			],
+			[
+				"Route",
+				"RouterInterface〔interface〕"
+			],
+			[
+				"Mi",
+				"MicroPostType"
+			],
+			[
+				"FormFa",
+				"FormFactoryInterface〔interface〕"
+			],
+			[
+				"Te",
+				"TextareaType〔class〕"
+			],
+			[
+				"Ex",
+				"Extension〔namespace〕"
+			],
+			[
+				"Form",
+				"FormBuilderInterface"
+			],
+			[
+				"Re",
+				"RedirectResponse〔class〕"
+			],
+			[
+				"Htt",
+				"HttpKernel〔namespace〕"
+			],
+			[
+				"posts",
+				"posix_getsid"
+			],
+			[
+				"session",
+				"session_decode"
+			],
+			[
+				"he",
+				"hello_message"
+			],
+			[
+				"Ou",
+				"OutputInterface"
+			],
+			[
+				"OP",
+				"OutputInterface〔interface〕"
+			],
+			[
+				"To",
+				"TokenInterface"
+			],
+			[
+				"impl",
+				"implode〔function〕"
+			],
+			[
+				"frm",
+				"frmDataSet"
+			],
+			[
+				"table",
+				"table-bordered"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"col",
+				"col-lg-12"
+			],
+			[
+				"id",
+				"id_kabupaten"
+			],
+			[
+				"kota",
+				"kota_id"
+			],
+			[
+				"in",
+				"id_province"
+			],
+			[
+				"ima",
+				"image_name3"
+			],
+			[
+				"pemil",
+				"pemilik_id"
+			],
+			[
+				"q",
+				"$query〔variable〕"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"sea",
+				"searchProvinsi"
+			],
+			[
+				"data",
+				"dataSetKota"
+			],
+			[
+				"thead",
+				"thead-dark"
+			],
+			[
+				"pro",
+				"province"
+			],
+			[
+				"kode",
+				"kodeBillboard"
+			],
+			[
+				"res",
+				"$response〔variable〕"
+			],
+			[
+				"D",
+				"DoctrineORMQuerySourceIterator〔namespace〕"
+			],
+			[
+				"creart",
+				"createQueryBuilder〔function〕"
+			],
+			[
+				"type",
+				"type_options"
+			],
+			[
+				"en",
+				"Entity"
+			],
+			[
+				"js",
+				"parseJSON〔function〕"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"new",
+				"newOptions"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"a",
+				"autocomplete_kabupaten"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"Pem",
+				"Pemilik"
+			],
+			[
+				"delete",
+				"deleteMarkers"
+			],
+			[
+				"clea",
+				"clearMarkers"
+			],
+			[
+				"setM",
+				"setMapOnAll"
+			],
+			[
+				"genera",
+				"generateMarker2"
+			],
+			[
+				"long",
+				"longCoordinate〔argument〕"
+			],
+			[
+				"lo",
+				"longCoordinate"
+			],
+			[
+				"la",
+				"latCoordinate"
+			],
+			[
+				"map",
+				"map〔variable〕"
+			],
+			[
+				"update",
+				"updateMarker〔class〕"
+			],
+			[
+				"bill",
+				"billboard_longitude"
+			],
+			[
+				"billboa",
+				"billboard_longitude"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"Pemilik",
+				"pemilik"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"co",
+				"comment-email"
+			],
+			[
+				"respo",
+				"responseText"
+			],
+			[
+				"err",
+				"errorThrown"
+			],
+			[
+				"post",
+				"postPassword"
+			],
+			[
+				"postU",
+				"postUsername"
+			],
+			[
+				"total",
+				"totalPost"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"inser",
+				"insertData"
+			],
+			[
+				"save",
+				"saveTrail"
+			],
+			[
+				"site",
+				"siteInfo"
+			],
+			[
+				"results",
+				"resultsArray"
+			],
+			[
+				"side",
+				"sidebar-module-inset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/services.yaml",
+			"settings":
+			{
+				"buffer_size": 2328,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Event/LocaleSubscriber.php",
+			"settings":
+			{
+				"buffer_size": 1098,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 79.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"bas",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//KAKASHI/rantarou/Private/www/symfony4-udemy",
+		"//KAKASHI/rantarou/Private/www/symfony4-udemy/config",
+		"//KAKASHI/rantarou/Private/www/symfony4-udemy/src",
+		"//KAKASHI/rantarou/Private/www/symfony4-udemy/src/Event",
+		"//KAKASHI/rantarou/Private/www/symfony4-udemy/src/Security",
+		"//KAKASHI/rantarou/Private/www/symfony4-udemy/src/Service"
+	],
+	"file_history":
+	[
+		"/Y/Private/www/symfony4-udemy/config/services.yaml",
+		"/Y/Private/www/symfony4-udemy/templates/email/registration.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Entity/User.php",
+		"/Y/Private/www/symfony4-udemy/src/DataFixtures/AppFixtures.php",
+		"/Y/Private/www/symfony4-udemy/src/Event/UserRegisterEvent.php",
+		"/Y/Private/www/symfony4-udemy/src/Repository/NotificationRepository.php",
+		"/Y/Private/www/symfony4-udemy/.env",
+		"/Y/Private/www/symfony4-udemy/src/Mailer/Mailer.php",
+		"/Y/Private/www/symfony4-udemy/src/Event/UserEventSubscriber.php",
+		"/Y/Private/www/symfony4-udemy/src/Controller/RegisterController.php",
+		"/Y/Private/www/symfony4-udemy/templates/notification/notifications.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Twig/AppExtension.php",
+		"/Y/Private/www/symfony4-udemy/src/Controller/NotificationController.php",
+		"/Y/Private/www/symfony4-udemy/config/packages/swiftmailer.yaml",
+		"/Y/Private/www/symfony4-udemy/config/packages/dev/swiftmailer.yaml",
+		"/Y/Private/www/symfony4-udemy/src/Controller/MicroPostController.php",
+		"/Y/Private/www/symfony4-udemy/templates/micro-post/index.html.twig",
+		"/Y/Private/www/symfony4-udemy/templates/micro-post/user-posts.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Repository/UserRepository.php",
+		"/Y/Private/www/symfony4-udemy/src/Repository/MicroPostRepository.php",
+		"/Y/Private/www/symfony4-udemy/src/Controller/FollowingController.php",
+		"/Y/Private/www/symfony4-udemy/src/Entity/MicroPost.php",
+		"/Y/Private/www/symfony4-udemy/src/Controller/LikesController.php",
+		"/Y/Private/www/symfony4-udemy/templates/micro-post/post.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Entity/Notification.php",
+		"/Y/Private/www/symfony4-udemy/src/Repository/LikeNotificationRepository.php",
+		"/Y/Private/www/symfony4-udemy/templates/micro-post/raw-post.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Entity/LikeNotification.php",
+		"/Y/Private/www/symfony4-udemy/webpack.config.js",
+		"/Y/Private/www/symfony4-udemy/src/EventListener/LikeNotificationSubscriber.php",
+		"/Y/Private/www/symfony4-udemy/templates/base.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Entity/LikesController.php",
+		"/C/Users/Martino NR/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Martino NR/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Y/Private/www/symfony4-udemy/config/packages/security.yaml",
+		"/Y/Private/www/symfony4-udemy/templates/security/register.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Form/UserType.php",
+		"/Y/Private/www/symfony4-udemy/templates/security/login.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Security/MicroPostVoter.php",
+		"/Y/Private/www/symfony4-udemy/src/Controller/SecurityController.php",
+		"/Y/Private/www/symfony4-udemy/src/Controller/RegisterController",
+		"/Y/Private/www/symfony4-udemy/config/packages/twig.yaml",
+		"/Y/Private/www/symfony4-udemy/templates/micro-post/add.html.twig",
+		"/Y/Private/www/symfony4-udemy/src/Form/MicroPostType.php",
+		"/Y/Private/www/symfony4-udemy/package.json",
+		"/Y/Private/www/symfony4-udemy/config/packages/doctrine.yaml",
+		"/Y/Private/www/symfony4-udemy/assets/css/app.css",
+		"/Y/Private/www/symfony4-udemy/src/Controller/BlogController.php",
+		"/Y/Private/www/symfony4-udemy/config/routes/dev/twig.yaml",
+		"/Y/Private/www/symfony4-udemy/templates/bundles/TwigBundle/Exception/error404.html.twig",
+		"/Y/Private/www/symfony4-udemy/templates/blog/index.html.twig",
+		"/Y/Private/www/symfony4-udemy/templates/blog/post.html.twig",
+		"/Y/Private/www/symfony4-udemy/config/packages/routing.yaml",
+		"/Y/Private/www/symfony4-udemy/src/Security/ExampleVoter.php",
+		"/Y/Private/www/symfony4-udemy/src/Command/HelloCommand.php",
+		"/Y/Private/www/symfony4-udemy/src/Service/Greeting.php",
+		"/Y/Private/www/symfony4-udemy/public/build/css/app.css",
+		"/Y/Private/www/symfony4-udemy/config/packages/framework.yaml",
+		"/Y/Private/www/symfony4-udemy/vendor/symfony/framework-bundle/Controller/ControllerTrait.php",
+		"//KAKASHI/rantarou/Projects/www/symfony-billboard/config/routes.yaml",
+		"//KAKASHI/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/custom/gmap.html.twig",
+		"//KAKASHI/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/edit_billboard.html.twig",
+		"//KAKASHI/rantarou/Projects/www/symfony-billboard/config/easyadmin/basic.yaml",
+		"//KAKASHI/rantarou/Projects/www/symfony-billboard/templates/default/exportData.html.twig",
+		"//KAKASHI/rantarou/Projects/www/symfony-billboard/src/Controller/DefaultController.php",
+		"/D/Games/SteamLibrary/steamapps/common/Elyse the Devil/fontfix/fix.bat",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/src/Entity/Billboard.php",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/ORM/Billboard.orm.yml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/tag_premium.html.twig",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/custom/chainSelect.html.twig",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/edit_billboard.html.twig",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/easyadmin/basic.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/config/easyadmin/entities/Billboard.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/src/Repository/BillboardRepository.php",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/custom/gmap.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/config/packages/doctrine.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/config/ORM/Billboard.orm.yml",
+		"/home/rantarou/Projects/www/symfony-billboard/src/Entity/.gitignore",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/custom/gmap2.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/config/easyadmin/basic.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/default/billboardMap.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/src/Controller/DefaultController.php",
+		"/home/rantarou/Projects/www/symfony-billboard/config/easyadmin/entities/Client.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/config/easyadmin/entities/Pemilik.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/vich_uploader_image3.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/vich_uploader_image2.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/vich_uploader_image.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/config/routes.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/new_billboard.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/vendor/vich/uploader-bundle/Form/Type/VichImageType.php",
+		"/home/rantarou/Projects/www/symfony-billboard/src/Entity/Billboard.php",
+		"/home/rantarou/Projects/www/symfony-billboard/vendor/vich/uploader-bundle/Form/Type/VichFileType.php",
+		"/home/rantarou/Projects/www/symfony-billboard/config/ORM/Client.orm.yml",
+		"/home/rantarou/Projects/www/symfony-billboard/config/ORM/Kabupaten.orm.yml",
+		"/home/rantarou/Projects/www/symfony-billboard/config/ORM/Pemilik.orm.yml",
+		"/home/rantarou/Projects/www/symfony-billboard/config/ORM/User.orm.yml",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/list_billboard.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/config/packages/vich_uploader.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/config/config.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/public/.htaccess",
+		"/home/rantarou/Projects/www/symfony-billboard/config/packages/security.yaml",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/layout.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/src/Repository/KabupatenRepository.php",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/menu.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/public/bundles/easyadmin/javascript/easyadmin-all.min.js",
+		"/home/rantarou/Projects/www/symfony-billboard/src/Entity/Pemilik.php",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/edit_billboard.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/edit_pemilik.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/default/new_pemilik.html.twig",
+		"/home/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/custom/chainSelect.html.twig",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/packages/easy_admin.yaml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/easyadmin/entities/Kontrak.yaml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/easyadmin/entities/User.yaml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/easyadmin/entities/Client.yaml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/easyadmin/entities/Pemilik.yaml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/custom/gmap.html.twig",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/ORM/Pemilik.orm.yml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/src/Entity/Pemilik.php",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/src/Entity/User.php",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/routes.yaml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/src/Controller/DefaultController.php",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/src/Repository/ProvinceRepository.php",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/templates/bundles/FOSUserBundle/Security/login_content.html.twig",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/templates/bundles/FOSUserBundle/layout.html.twig",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/templates/bundles/EasyAdminBundle/custom/gmap2.html.twig",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/easyadmin/entities/Billboard.yaml",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/src/Entity/Kabupaten.php",
+		"//192.168.1.7/rantarou/Projects/www/symfony-billboard/config/services.yaml"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"id",
+			"'\n",
+			"]\n",
+			"Request $request"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/services.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2319,
+								2319
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Event/LocaleSubscriber.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								786
+							]
+						],
+						"settings":
+						{
+							"SL.41.region_keys":
+							[
+								"SL.htmltidy.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.htmltidy.Highlights.|caa9713954fdf92362af90056631c9bc3dc8b22a28bd3d2fe9890b16bfc3bf92|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "symfony4-udemy.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Private/www/gepeel/gepeel.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

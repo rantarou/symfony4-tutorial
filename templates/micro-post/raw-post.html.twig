@@ -1,0 +1,17 @@
+<div class="media text-muted pt-3">
+	{% set initials = post.user.fullName|split(' ') %}
+	{% if initials|length > 1 %}
+	{% set icon = attribute(initials, 0)|first ~ attribute(initials, 1)|first  %}
+	{% else %}
+	{% set icon = attribute(initials, 0)|first  %}
+	{% endif %}
+    <img data-src="holder.js/32x32?text={{ icon }}&bg=e83e8c&fg=fff&size=8" alt="" class="mr-2 rounded">
+    <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+        <span class="d-block">
+        	<a href="{{ path('micro-post_user', {'username': post.user.username}) }}"><strong class="text-gray-dark">@{{ post.user.username }}</strong></a> <small>{{ post.time|date("d/m/Y H:i:s") }}</small>
+        </span>
+        <a href="{{ path('micro-post_post', {'id' : post.id}) }}">
+        {{ post.text }}
+        </a>
+    </p>
+</div>

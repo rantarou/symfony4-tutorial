@@ -1,0 +1,19 @@
+App\Entity\MigrationVersions:
+    type: entity
+    table: migration_versions
+    id:
+        version:
+            type: string
+            nullable: false
+            length: 14
+            options:
+                fixed: false
+            id: true
+            generator:
+                strategy: IDENTITY
+    fields:
+        executedAt:
+            type: datetime_immutable
+            nullable: false
+            column: executed_at
+    lifecycleCallbacks: {  }
