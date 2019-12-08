@@ -463,7 +463,7 @@
 			"file": "config/services.yaml",
 			"settings":
 			{
-				"buffer_size": 2328,
+				"buffer_size": 2437,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -472,7 +472,7 @@
 			"file": "src/Event/LocaleSubscriber.php",
 			"settings":
 			{
-				"buffer_size": 1098,
+				"buffer_size": 1208,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -723,15 +723,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2328,
+						"buffer_size": 2437,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2319,
-								2319
+								0,
+								0
 							]
 						],
 						"settings":
@@ -754,15 +754,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1098,
+						"buffer_size": 1208,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								786,
-								786
+								0,
+								0
 							]
 						],
 						"settings":
@@ -774,7 +774,7 @@
 								"sublime_linter.protected_regions"
 							],
 							"auto_complete": false,
-							"git_gutter_is_enabled": false,
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
